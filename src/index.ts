@@ -50,3 +50,4 @@ export * from './takeWhile';
 export * from './toPairs';
 export * from './type';
 export * from './uniq';
+export * from './cond';
